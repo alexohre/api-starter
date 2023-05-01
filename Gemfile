@@ -50,3 +50,5 @@ end
 
 gem "devise", "~> 4.9"
 gem "devise-jwt", "~> 0.10.0"
+
+gem "letter_opener", group: :development
